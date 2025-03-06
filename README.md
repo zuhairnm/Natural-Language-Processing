@@ -18,7 +18,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](imagE.png)
 
 ## Video
 
@@ -30,12 +30,15 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](Image.png)](video.webm)
 
 ## Project Description
 
 Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
 
+The porblem my application solves is reading. Many people may not have time to read articles or websites. So our program finds the topic for them so they have an idea on what the reading si about, without having to do much at all. WE are used text from chatgpt.
 ## NLP Techniques
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique. 
+
+
