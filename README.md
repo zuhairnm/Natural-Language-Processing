@@ -18,7 +18,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](imagE.png)
+![UML Diagram for my project](IMAGE.png)
 
 ## Video
 
@@ -41,4 +41,5 @@ The porblem my application solves is reading. Many people may not have time to r
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique. 
 
+We used NLP to add a interactive feature with the use. The user can ask for the most or least common word. And which article they want to chose from. The methods I used to make this was creatList, findMostCommonTopic, findLeastCommonTopic, isNotStopWord, and lastly the removePunctuation. THe first methiod created a list, the next two methods find the least and most common topics from the program which has already been found useing code my partner made, isNotStop word makes sure that the most common word found is not a stop word, lastly the last method makes sure the word found only shows the word itslelf. 
 
